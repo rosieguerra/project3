@@ -1,0 +1,240 @@
+[15-Apr-2017 21:07:54 UTC] PHP Warning:  require(/app/public/wp-content/themes/four-oh-five/inc/fourohfive_custom_post_types.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/four-oh-five/functions.php on line 188
+[15-Apr-2017 21:07:54 UTC] PHP Stack trace:
+[15-Apr-2017 21:07:54 UTC] PHP   1. {main}() /app/public/index.php:0
+[15-Apr-2017 21:07:54 UTC] PHP   2. require() /app/public/index.php:17
+[15-Apr-2017 21:07:54 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[15-Apr-2017 21:07:55 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[15-Apr-2017 21:07:55 UTC] PHP   5. require_once() /app/public/wp-config.php:81
+[15-Apr-2017 21:07:55 UTC] PHP   6. include() /app/public/wp-settings.php:425
+[15-Apr-2017 21:07:55 UTC] PHP Fatal error:  require(): Failed opening required '/app/public/wp-content/themes/four-oh-five/inc/fourohfive_custom_post_types.php' (include_path='.:') in /app/public/wp-content/themes/four-oh-five/functions.php on line 188
+[15-Apr-2017 21:07:56 UTC] PHP Stack trace:
+[15-Apr-2017 21:07:56 UTC] PHP   1. {main}() /app/public/index.php:0
+[15-Apr-2017 21:07:56 UTC] PHP   2. require() /app/public/index.php:17
+[15-Apr-2017 21:07:56 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[15-Apr-2017 21:07:56 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[15-Apr-2017 21:07:57 UTC] PHP   5. require_once() /app/public/wp-config.php:81
+[15-Apr-2017 21:07:57 UTC] PHP   6. include() /app/public/wp-settings.php:425
+[15-Apr-2017 21:07:58 UTC] PHP Warning:  require(/app/public/wp-content/themes/four-oh-five/inc/fourohfive_custom_post_types.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/four-oh-five/functions.php on line 188
+[15-Apr-2017 21:07:58 UTC] PHP Stack trace:
+[15-Apr-2017 21:07:58 UTC] PHP   1. {main}() /app/public/wp-admin/index.php:0
+[15-Apr-2017 21:07:58 UTC] PHP   2. require_once() /app/public/wp-admin/index.php:10
+[15-Apr-2017 21:07:58 UTC] PHP   3. require_once() /app/public/wp-admin/admin.php:31
+[15-Apr-2017 21:07:58 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[15-Apr-2017 21:07:58 UTC] PHP   5. require_once() /app/public/wp-config.php:81
+[15-Apr-2017 21:07:58 UTC] PHP   6. include() /app/public/wp-settings.php:425
+[15-Apr-2017 21:07:58 UTC] PHP Fatal error:  require(): Failed opening required '/app/public/wp-content/themes/four-oh-five/inc/fourohfive_custom_post_types.php' (include_path='.:') in /app/public/wp-content/themes/four-oh-five/functions.php on line 188
+[15-Apr-2017 21:07:58 UTC] PHP Stack trace:
+[15-Apr-2017 21:07:58 UTC] PHP   1. {main}() /app/public/wp-admin/index.php:0
+[15-Apr-2017 21:07:58 UTC] PHP   2. require_once() /app/public/wp-admin/index.php:10
+[15-Apr-2017 21:07:58 UTC] PHP   3. require_once() /app/public/wp-admin/admin.php:31
+[15-Apr-2017 21:07:58 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[15-Apr-2017 21:07:59 UTC] PHP   5. require_once() /app/public/wp-config.php:81
+[15-Apr-2017 21:07:59 UTC] PHP   6. include() /app/public/wp-settings.php:425
+[15-Apr-2017 21:18:52 UTC] PHP Warning:  require(/app/public/wp-content/themes/four-oh-five/inc/fourohfive_custom_post_types.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/four-oh-five/functions.php on line 188
+[15-Apr-2017 21:18:52 UTC] PHP Stack trace:
+[15-Apr-2017 21:18:52 UTC] PHP   1. {main}() /app/public/index.php:0
+[15-Apr-2017 21:18:52 UTC] PHP   2. require() /app/public/index.php:17
+[15-Apr-2017 21:18:52 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[15-Apr-2017 21:18:52 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[15-Apr-2017 21:18:52 UTC] PHP   5. require_once() /app/public/wp-config.php:81
+[15-Apr-2017 21:18:52 UTC] PHP   6. include() /app/public/wp-settings.php:425
+[15-Apr-2017 21:18:52 UTC] PHP Fatal error:  require(): Failed opening required '/app/public/wp-content/themes/four-oh-five/inc/fourohfive_custom_post_types.php' (include_path='.:') in /app/public/wp-content/themes/four-oh-five/functions.php on line 188
+[15-Apr-2017 21:18:52 UTC] PHP Stack trace:
+[15-Apr-2017 21:18:52 UTC] PHP   1. {main}() /app/public/index.php:0
+[15-Apr-2017 21:18:52 UTC] PHP   2. require() /app/public/index.php:17
+[15-Apr-2017 21:18:52 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[15-Apr-2017 21:18:52 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[15-Apr-2017 21:18:52 UTC] PHP   5. require_once() /app/public/wp-config.php:81
+[15-Apr-2017 21:18:52 UTC] PHP   6. include() /app/public/wp-settings.php:425
+[15-Apr-2017 21:19:34 UTC] PHP Warning:  require(/app/public/wp-content/themes/four-oh-five/inc/fourohfive_custom_post_types.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/four-oh-five/functions.php on line 188
+[15-Apr-2017 21:19:34 UTC] PHP Stack trace:
+[15-Apr-2017 21:19:34 UTC] PHP   1. {main}() /app/public/index.php:0
+[15-Apr-2017 21:19:34 UTC] PHP   2. require() /app/public/index.php:17
+[15-Apr-2017 21:19:34 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[15-Apr-2017 21:19:34 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[15-Apr-2017 21:19:34 UTC] PHP   5. require_once() /app/public/wp-config.php:81
+[15-Apr-2017 21:19:34 UTC] PHP   6. include() /app/public/wp-settings.php:425
+[15-Apr-2017 21:19:34 UTC] PHP Fatal error:  require(): Failed opening required '/app/public/wp-content/themes/four-oh-five/inc/fourohfive_custom_post_types.php' (include_path='.:') in /app/public/wp-content/themes/four-oh-five/functions.php on line 188
+[15-Apr-2017 21:19:34 UTC] PHP Stack trace:
+[15-Apr-2017 21:19:34 UTC] PHP   1. {main}() /app/public/index.php:0
+[15-Apr-2017 21:19:34 UTC] PHP   2. require() /app/public/index.php:17
+[15-Apr-2017 21:19:34 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[15-Apr-2017 21:19:35 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[15-Apr-2017 21:19:35 UTC] PHP   5. require_once() /app/public/wp-config.php:81
+[15-Apr-2017 21:19:35 UTC] PHP   6. include() /app/public/wp-settings.php:425
+[15-Apr-2017 21:24:26 UTC] PHP Warning:  require(/app/public/wp-content/themes/four-oh-five/inc/fourohfive_custom_post_types.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/four-oh-five/functions.php on line 188
+[15-Apr-2017 21:24:26 UTC] PHP Stack trace:
+[15-Apr-2017 21:24:26 UTC] PHP   1. {main}() /app/public/index.php:0
+[15-Apr-2017 21:24:26 UTC] PHP   2. require() /app/public/index.php:17
+[15-Apr-2017 21:24:26 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[15-Apr-2017 21:24:26 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[15-Apr-2017 21:24:26 UTC] PHP   5. require_once() /app/public/wp-config.php:81
+[15-Apr-2017 21:24:26 UTC] PHP   6. include() /app/public/wp-settings.php:425
+[15-Apr-2017 21:24:26 UTC] PHP Fatal error:  require(): Failed opening required '/app/public/wp-content/themes/four-oh-five/inc/fourohfive_custom_post_types.php' (include_path='.:') in /app/public/wp-content/themes/four-oh-five/functions.php on line 188
+[15-Apr-2017 21:24:26 UTC] PHP Stack trace:
+[15-Apr-2017 21:24:26 UTC] PHP   1. {main}() /app/public/index.php:0
+[15-Apr-2017 21:24:26 UTC] PHP   2. require() /app/public/index.php:17
+[15-Apr-2017 21:24:26 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[15-Apr-2017 21:24:26 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[15-Apr-2017 21:24:26 UTC] PHP   5. require_once() /app/public/wp-config.php:81
+[15-Apr-2017 21:24:26 UTC] PHP   6. include() /app/public/wp-settings.php:425
+[15-Apr-2017 21:24:41 UTC] PHP Warning:  require(/app/public/wp-content/themes/four-oh-five/inc/fourohfive_custom_post_types.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/four-oh-five/functions.php on line 188
+[15-Apr-2017 21:24:41 UTC] PHP Stack trace:
+[15-Apr-2017 21:24:41 UTC] PHP   1. {main}() /app/public/index.php:0
+[15-Apr-2017 21:24:41 UTC] PHP   2. require() /app/public/index.php:17
+[15-Apr-2017 21:24:41 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[15-Apr-2017 21:24:41 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[15-Apr-2017 21:24:41 UTC] PHP   5. require_once() /app/public/wp-config.php:81
+[15-Apr-2017 21:24:41 UTC] PHP   6. include() /app/public/wp-settings.php:425
+[15-Apr-2017 21:24:41 UTC] PHP Fatal error:  require(): Failed opening required '/app/public/wp-content/themes/four-oh-five/inc/fourohfive_custom_post_types.php' (include_path='.:') in /app/public/wp-content/themes/four-oh-five/functions.php on line 188
+[15-Apr-2017 21:24:41 UTC] PHP Stack trace:
+[15-Apr-2017 21:24:41 UTC] PHP   1. {main}() /app/public/index.php:0
+[15-Apr-2017 21:24:41 UTC] PHP   2. require() /app/public/index.php:17
+[15-Apr-2017 21:24:41 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[15-Apr-2017 21:24:41 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[15-Apr-2017 21:24:41 UTC] PHP   5. require_once() /app/public/wp-config.php:81
+[15-Apr-2017 21:24:41 UTC] PHP   6. include() /app/public/wp-settings.php:425
+[15-Apr-2017 21:24:57 UTC] PHP Warning:  require(/app/public/wp-content/themes/four-oh-five/inc/fourohfive_custom_post_types.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/four-oh-five/functions.php on line 188
+[15-Apr-2017 21:24:57 UTC] PHP Stack trace:
+[15-Apr-2017 21:24:57 UTC] PHP   1. {main}() /app/public/wp-admin/index.php:0
+[15-Apr-2017 21:24:57 UTC] PHP   2. require_once() /app/public/wp-admin/index.php:10
+[15-Apr-2017 21:24:57 UTC] PHP   3. require_once() /app/public/wp-admin/admin.php:31
+[15-Apr-2017 21:24:57 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[15-Apr-2017 21:24:57 UTC] PHP   5. require_once() /app/public/wp-config.php:81
+[15-Apr-2017 21:24:57 UTC] PHP   6. include() /app/public/wp-settings.php:425
+[15-Apr-2017 21:24:57 UTC] PHP Fatal error:  require(): Failed opening required '/app/public/wp-content/themes/four-oh-five/inc/fourohfive_custom_post_types.php' (include_path='.:') in /app/public/wp-content/themes/four-oh-five/functions.php on line 188
+[15-Apr-2017 21:24:57 UTC] PHP Stack trace:
+[15-Apr-2017 21:24:57 UTC] PHP   1. {main}() /app/public/wp-admin/index.php:0
+[15-Apr-2017 21:24:57 UTC] PHP   2. require_once() /app/public/wp-admin/index.php:10
+[15-Apr-2017 21:24:57 UTC] PHP   3. require_once() /app/public/wp-admin/admin.php:31
+[15-Apr-2017 21:24:57 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[15-Apr-2017 21:24:57 UTC] PHP   5. require_once() /app/public/wp-config.php:81
+[15-Apr-2017 21:24:57 UTC] PHP   6. include() /app/public/wp-settings.php:425
+[15-Apr-2017 21:41:32 UTC] PHP Warning:  require(/app/public/wp-content/themes/four-oh-five/inc/fourohfive_custom_post_types.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/four-oh-five/functions.php on line 188
+[15-Apr-2017 21:41:32 UTC] PHP Stack trace:
+[15-Apr-2017 21:41:32 UTC] PHP   1. {main}() /app/public/index.php:0
+[15-Apr-2017 21:41:32 UTC] PHP   2. require() /app/public/index.php:17
+[15-Apr-2017 21:41:32 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[15-Apr-2017 21:41:32 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[15-Apr-2017 21:41:32 UTC] PHP   5. require_once() /app/public/wp-config.php:81
+[15-Apr-2017 21:41:32 UTC] PHP   6. include() /app/public/wp-settings.php:425
+[15-Apr-2017 21:41:32 UTC] PHP Fatal error:  require(): Failed opening required '/app/public/wp-content/themes/four-oh-five/inc/fourohfive_custom_post_types.php' (include_path='.:') in /app/public/wp-content/themes/four-oh-five/functions.php on line 188
+[15-Apr-2017 21:41:32 UTC] PHP Stack trace:
+[15-Apr-2017 21:41:32 UTC] PHP   1. {main}() /app/public/index.php:0
+[15-Apr-2017 21:41:32 UTC] PHP   2. require() /app/public/index.php:17
+[15-Apr-2017 21:41:32 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[15-Apr-2017 21:41:32 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[15-Apr-2017 21:41:32 UTC] PHP   5. require_once() /app/public/wp-config.php:81
+[15-Apr-2017 21:41:32 UTC] PHP   6. include() /app/public/wp-settings.php:425
+[15-Apr-2017 21:42:05 UTC] PHP Warning:  require(/app/public/wp-content/themes/four-oh-five/inc/fourohfive_custom_post_types.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/four-oh-five/functions.php on line 188
+[15-Apr-2017 21:42:05 UTC] PHP Stack trace:
+[15-Apr-2017 21:42:05 UTC] PHP   1. {main}() /app/public/wp-admin/index.php:0
+[15-Apr-2017 21:42:05 UTC] PHP   2. require_once() /app/public/wp-admin/index.php:10
+[15-Apr-2017 21:42:05 UTC] PHP   3. require_once() /app/public/wp-admin/admin.php:31
+[15-Apr-2017 21:42:05 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[15-Apr-2017 21:42:05 UTC] PHP   5. require_once() /app/public/wp-config.php:81
+[15-Apr-2017 21:42:05 UTC] PHP   6. include() /app/public/wp-settings.php:425
+[15-Apr-2017 21:42:05 UTC] PHP Fatal error:  require(): Failed opening required '/app/public/wp-content/themes/four-oh-five/inc/fourohfive_custom_post_types.php' (include_path='.:') in /app/public/wp-content/themes/four-oh-five/functions.php on line 188
+[15-Apr-2017 21:42:05 UTC] PHP Stack trace:
+[15-Apr-2017 21:42:05 UTC] PHP   1. {main}() /app/public/wp-admin/index.php:0
+[15-Apr-2017 21:42:05 UTC] PHP   2. require_once() /app/public/wp-admin/index.php:10
+[15-Apr-2017 21:42:05 UTC] PHP   3. require_once() /app/public/wp-admin/admin.php:31
+[15-Apr-2017 21:42:05 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[15-Apr-2017 21:42:05 UTC] PHP   5. require_once() /app/public/wp-config.php:81
+[15-Apr-2017 21:42:05 UTC] PHP   6. include() /app/public/wp-settings.php:425
+[15-Apr-2017 23:58:26 UTC] PHP Warning:  require(/app/public/wp-content/themes/four-oh-five/inc/fourohfive_custom_post_types.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/four-oh-five/functions.php on line 188
+[15-Apr-2017 23:58:26 UTC] PHP Stack trace:
+[15-Apr-2017 23:58:26 UTC] PHP   1. {main}() /app/public/index.php:0
+[15-Apr-2017 23:58:26 UTC] PHP   2. require() /app/public/index.php:17
+[15-Apr-2017 23:58:26 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[15-Apr-2017 23:58:26 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[15-Apr-2017 23:58:26 UTC] PHP   5. require_once() /app/public/wp-config.php:81
+[15-Apr-2017 23:58:26 UTC] PHP   6. include() /app/public/wp-settings.php:425
+[15-Apr-2017 23:58:26 UTC] PHP Fatal error:  require(): Failed opening required '/app/public/wp-content/themes/four-oh-five/inc/fourohfive_custom_post_types.php' (include_path='.:') in /app/public/wp-content/themes/four-oh-five/functions.php on line 188
+[15-Apr-2017 23:58:26 UTC] PHP Stack trace:
+[15-Apr-2017 23:58:26 UTC] PHP   1. {main}() /app/public/index.php:0
+[15-Apr-2017 23:58:26 UTC] PHP   2. require() /app/public/index.php:17
+[15-Apr-2017 23:58:26 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[15-Apr-2017 23:58:26 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[15-Apr-2017 23:58:26 UTC] PHP   5. require_once() /app/public/wp-config.php:81
+[15-Apr-2017 23:58:26 UTC] PHP   6. include() /app/public/wp-settings.php:425
+[15-Apr-2017 23:58:37 UTC] PHP Warning:  require(/app/public/wp-content/themes/four-oh-five/inc/fourohfive_custom_post_types.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/four-oh-five/functions.php on line 188
+[15-Apr-2017 23:58:37 UTC] PHP Stack trace:
+[15-Apr-2017 23:58:37 UTC] PHP   1. {main}() /app/public/index.php:0
+[15-Apr-2017 23:58:37 UTC] PHP   2. require() /app/public/index.php:17
+[15-Apr-2017 23:58:37 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[15-Apr-2017 23:58:37 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[15-Apr-2017 23:58:37 UTC] PHP   5. require_once() /app/public/wp-config.php:81
+[15-Apr-2017 23:58:37 UTC] PHP   6. include() /app/public/wp-settings.php:425
+[15-Apr-2017 23:58:37 UTC] PHP Fatal error:  require(): Failed opening required '/app/public/wp-content/themes/four-oh-five/inc/fourohfive_custom_post_types.php' (include_path='.:') in /app/public/wp-content/themes/four-oh-five/functions.php on line 188
+[15-Apr-2017 23:58:37 UTC] PHP Stack trace:
+[15-Apr-2017 23:58:37 UTC] PHP   1. {main}() /app/public/index.php:0
+[15-Apr-2017 23:58:37 UTC] PHP   2. require() /app/public/index.php:17
+[15-Apr-2017 23:58:37 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[15-Apr-2017 23:58:37 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[15-Apr-2017 23:58:37 UTC] PHP   5. require_once() /app/public/wp-config.php:81
+[15-Apr-2017 23:58:37 UTC] PHP   6. include() /app/public/wp-settings.php:425
+[15-Apr-2017 23:58:54 UTC] PHP Warning:  require(/app/public/wp-content/themes/four-oh-five/inc/fourohfive_custom_post_types.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/four-oh-five/functions.php on line 188
+[15-Apr-2017 23:58:54 UTC] PHP Stack trace:
+[15-Apr-2017 23:58:54 UTC] PHP   1. {main}() /app/public/index.php:0
+[15-Apr-2017 23:58:54 UTC] PHP   2. require() /app/public/index.php:17
+[15-Apr-2017 23:58:54 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[15-Apr-2017 23:58:54 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[15-Apr-2017 23:58:54 UTC] PHP   5. require_once() /app/public/wp-config.php:81
+[15-Apr-2017 23:58:54 UTC] PHP   6. include() /app/public/wp-settings.php:425
+[15-Apr-2017 23:58:54 UTC] PHP Fatal error:  require(): Failed opening required '/app/public/wp-content/themes/four-oh-five/inc/fourohfive_custom_post_types.php' (include_path='.:') in /app/public/wp-content/themes/four-oh-five/functions.php on line 188
+[15-Apr-2017 23:58:54 UTC] PHP Stack trace:
+[15-Apr-2017 23:58:54 UTC] PHP   1. {main}() /app/public/index.php:0
+[15-Apr-2017 23:58:54 UTC] PHP   2. require() /app/public/index.php:17
+[15-Apr-2017 23:58:54 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[15-Apr-2017 23:58:54 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[15-Apr-2017 23:58:54 UTC] PHP   5. require_once() /app/public/wp-config.php:81
+[15-Apr-2017 23:58:54 UTC] PHP   6. include() /app/public/wp-settings.php:425
+[15-Apr-2017 23:59:23 UTC] PHP Warning:  require(/app/public/wp-content/themes/four-oh-five/inc/fourohfive_custom_post_types.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/four-oh-five/functions.php on line 188
+[15-Apr-2017 23:59:23 UTC] PHP Stack trace:
+[15-Apr-2017 23:59:23 UTC] PHP   1. {main}() /app/public/index.php:0
+[15-Apr-2017 23:59:23 UTC] PHP   2. require() /app/public/index.php:17
+[15-Apr-2017 23:59:23 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[15-Apr-2017 23:59:23 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[15-Apr-2017 23:59:23 UTC] PHP   5. require_once() /app/public/wp-config.php:81
+[15-Apr-2017 23:59:23 UTC] PHP   6. include() /app/public/wp-settings.php:425
+[15-Apr-2017 23:59:23 UTC] PHP Fatal error:  require(): Failed opening required '/app/public/wp-content/themes/four-oh-five/inc/fourohfive_custom_post_types.php' (include_path='.:') in /app/public/wp-content/themes/four-oh-five/functions.php on line 188
+[15-Apr-2017 23:59:23 UTC] PHP Stack trace:
+[15-Apr-2017 23:59:23 UTC] PHP   1. {main}() /app/public/index.php:0
+[15-Apr-2017 23:59:23 UTC] PHP   2. require() /app/public/index.php:17
+[15-Apr-2017 23:59:23 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[15-Apr-2017 23:59:23 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[15-Apr-2017 23:59:23 UTC] PHP   5. require_once() /app/public/wp-config.php:81
+[15-Apr-2017 23:59:23 UTC] PHP   6. include() /app/public/wp-settings.php:425
+[15-Apr-2017 23:59:54 UTC] PHP Warning:  require(/app/public/wp-content/themes/four-oh-five/inc/fourohfive_custom_post_types.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/four-oh-five/functions.php on line 188
+[15-Apr-2017 23:59:54 UTC] PHP Stack trace:
+[15-Apr-2017 23:59:54 UTC] PHP   1. {main}() /app/public/index.php:0
+[15-Apr-2017 23:59:54 UTC] PHP   2. require() /app/public/index.php:17
+[15-Apr-2017 23:59:54 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[15-Apr-2017 23:59:54 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[15-Apr-2017 23:59:54 UTC] PHP   5. require_once() /app/public/wp-config.php:81
+[15-Apr-2017 23:59:54 UTC] PHP   6. include() /app/public/wp-settings.php:425
+[15-Apr-2017 23:59:54 UTC] PHP Fatal error:  require(): Failed opening required '/app/public/wp-content/themes/four-oh-five/inc/fourohfive_custom_post_types.php' (include_path='.:') in /app/public/wp-content/themes/four-oh-five/functions.php on line 188
+[15-Apr-2017 23:59:54 UTC] PHP Stack trace:
+[15-Apr-2017 23:59:54 UTC] PHP   1. {main}() /app/public/index.php:0
+[15-Apr-2017 23:59:54 UTC] PHP   2. require() /app/public/index.php:17
+[15-Apr-2017 23:59:54 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[15-Apr-2017 23:59:54 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[15-Apr-2017 23:59:55 UTC] PHP   5. require_once() /app/public/wp-config.php:81
+[15-Apr-2017 23:59:55 UTC] PHP   6. include() /app/public/wp-settings.php:425
+[16-Apr-2017 00:00:00 UTC] PHP Warning:  require(/app/public/wp-content/themes/four-oh-five/inc/fourohfive_custom_post_types.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/four-oh-five/functions.php on line 188
+[16-Apr-2017 00:00:00 UTC] PHP Stack trace:
+[16-Apr-2017 00:00:00 UTC] PHP   1. {main}() /app/public/index.php:0
+[16-Apr-2017 00:00:00 UTC] PHP   2. require() /app/public/index.php:17
+[16-Apr-2017 00:00:00 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[16-Apr-2017 00:00:00 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[16-Apr-2017 00:00:00 UTC] PHP   5. require_once() /app/public/wp-config.php:81
+[16-Apr-2017 00:00:00 UTC] PHP   6. include() /app/public/wp-settings.php:425
+[16-Apr-2017 00:00:00 UTC] PHP Fatal error:  require(): Failed opening required '/app/public/wp-content/themes/four-oh-five/inc/fourohfive_custom_post_types.php' (include_path='.:') in /app/public/wp-content/themes/four-oh-five/functions.php on line 188
+[16-Apr-2017 00:00:00 UTC] PHP Stack trace:
+[16-Apr-2017 00:00:00 UTC] PHP   1. {main}() /app/public/index.php:0
+[16-Apr-2017 00:00:00 UTC] PHP   2. require() /app/public/index.php:17
+[16-Apr-2017 00:00:00 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[16-Apr-2017 00:00:00 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[16-Apr-2017 00:00:00 UTC] PHP   5. require_once() /app/public/wp-config.php:81
+[16-Apr-2017 00:00:00 UTC] PHP   6. include() /app/public/wp-settings.php:425
